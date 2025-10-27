@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there is Li dinyuan
 
+### I 'm focus in Computer Science , major in Geological Engineering.
 <!--
 **626Potat0/626Potat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
